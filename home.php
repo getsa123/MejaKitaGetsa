@@ -64,7 +64,7 @@ if(! isset($_SESSION['is_login']))
 
   <div class="starter-template">
     <h1>Selamat Datang <?php echo $_SESSION['nama']; ?></h1>
-    <p class="lead">Belajar PHP Sangatlah Menyenangkan</p>
+    <p class="lead">Belajar PHP Sangatlah Menyenangkan Sekali</p>
   </div>
 
 </main><!-- /.container -->
